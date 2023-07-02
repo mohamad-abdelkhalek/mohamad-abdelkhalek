@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web development, React framework, Data Structures and Algorithms**
 
-- 💬 Ask me about **Java, Data Structures and Algorithms, React**
+- 💬 Ask me about **Java, Data Structures and Algorithms and React**
 
 - 📫 How to reach me **mohammad.ak.cs@gmail.com**
 
