@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Abdelkhalek</h1>
 <h3 align="center">A passionate Computer Science graduate who is interested in web development</h3>
 
+<br>
 
 - 🌱 I’m currently learning **Web development, React framework, Data Structures and Algorithms**
 
