@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohammad Abdelkhalek</h1>
 <h3 align="center">A passionate Computer Science graduate who is interested in web development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamad-abdelkhalek" alt="mohamad-abdelkhalek" /></a> </p>
 
 - 🌱 I’m currently learning **Web development, React framework, Data Structures and Algorithms**
 
-- 💬 Ask me about **Java, Data Structures and Algorithms and React**
+- 💬 Ask me about **Data Structures and Algorithms and Web development**
 
-- 📫 How to reach me **mohammad.ak.cs@gmail.com**
+- 📫 How to reach me **mohammad.ak.cs@gmail.com** *or via* **+ 961 3 06 24 03**
 
 - ⚡ Fun fact **I can solve a Rubik's Cube in under 2 minutes! It's my favorite brain-teasing hobby that helps me relax and exercise my problem-solving skills.**
 
