@@ -4,7 +4,6 @@
 <h3 align="center">A passionate Computer Science graduate who is interested in web development</h3>
 
 <br>
-<img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966">
 
 - 🌱 I’m currently learning **Web development, React framework, Data Structures and Algorithms**
 
@@ -34,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamad-abdelkhalek&show_icons=true&locale=en" alt="mohamad-abdelkhalek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-abdelkhalek&" alt="mohamad-abdelkhalek" /></p>
+
+<img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966">
