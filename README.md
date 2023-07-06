@@ -1,17 +1,17 @@
 ![](https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Mohammad Abdelkhalek</h1>
-<h3 align="center">A passionate Computer Science graduate who is interested in web development</h3>
+<h1 align="center">Hi 🙋‍♂️, I'm Mohammad Abdelkhalek</h1>
+<h3 align="center">A passionate Full Stack Web developer with a Bachelor degree in Computer Science</h3>
 
 <br>
 
-- 🌱 I’m currently learning **Web development, React framework, Data Structures and Algorithms**
+- 🌱 I’m currently learning **Web development, React framework**
 
 - 💬 Ask me about **Data Structures and Algorithms and Web development**
 
 - 📫 How to reach me **mohammad.ak.cs@gmail.com** *or via* **+ 961 3 06 24 03**
 
-- ⚡ Fun fact **I can solve a Rubik's Cube in under 2 minutes! It's my favorite brain-teasing hobby that helps me relax and exercise my problem-solving skills.**
+- ⚡ Fun fact **I'm addicted to Coffe 😴**
 
 <br>
 
