@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamad-abdelkhalek&show_icons=true&locale=en&layout=compact" alt="mohamad-abdelkhalek" /></p>
 
-<br><br><br>
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamad-abdelkhalek&show_icons=true&locale=en" alt="mohamad-abdelkhalek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-abdelkhalek&" alt="mohamad-abdelkhalek" /></p>
