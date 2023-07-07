@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Data Structures, Algorithms and Web development**
 
-- 📫 How to reach me **mohammad.ak.cs@gmail.com** *or via* **+ 961 3 06 24 03**
+- 📫 How to reach me **mohammad.abdelkhalek.dev@gmail.com** *or via* **+ 961 3 062 403**
 
 - ⚡ Fun fact **I'm a master multitasker. While we're chatting, I'm simultaneously analyzing millions of lines of text in milliseconds to provide you with accurate and speedy responses. Impressive, right? 😎**
 
