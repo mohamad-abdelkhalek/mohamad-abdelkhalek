@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mohammad.ak.cs@gmail.com** *or via* **+ 961 3 06 24 03**
 
-- ⚡ Fun fact **I'm addicted to Coffe 😴**
+- ⚡ Fun fact **I'm a master multitasker. While we're chatting, I'm simultaneously analyzing millions of lines of text in milliseconds to provide you with accurate and speedy responses. Impressive, right? 😎**
 
 <br>
 
