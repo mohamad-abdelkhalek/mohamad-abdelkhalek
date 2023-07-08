@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg)
 
 <h1 align="center">Hi 🙋‍♂️, I'm Mohammad Abdelkhalek</h1>
-<h3 align="center">A passionate Full Stack Web developer with a Bachelor degree in Computer Science</h3>
+<h3 align="center">A passionate Computer Science gradute from Lebanon</h3>
 <br>
 <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="20%" hight="20%" align="right">
 <br>
