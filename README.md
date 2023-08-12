@@ -10,9 +10,9 @@
 
 - 💬 Ask me about: **Data Structures, Algorithms and Web development**
 
-- 📫 Reach me: **mohammad.abdelkhalek.dev@gmail.com** *or via* **+ 961 3 062 403**
+- 📫 Reach me: **mohammad.abdelkhalek.dev@gmail.com** *or via* **+961 3 062 403**
 
-- ⚡ **Committing code and chasing dreams, one branch at a time!✨**
+- ⚡ **Committing code and chasing dreams, one branch at a time! ✨**
 
 <br>
 
