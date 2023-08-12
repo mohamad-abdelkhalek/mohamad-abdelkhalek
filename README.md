@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF0685&center=true&vCenter=true&width=435&lines=Hello+World+!+%E2%9D%A4;I'm+Mohammad+Abdelkhalek;A+Passionate+Computer+Science+Graduate;A+Full-Stack+Developer+to+be)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=4000&pause=1000&color=FF0685&vCenter=true&width=435&lines=Hello+World+!+%E2%9D%A4;I'm+Mohammad+Abdelkhalek;A+Computer+Science+Graduate)](https://git.io/typing-svg)
 
 <br>
 <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="20%" hight="20%" align="right">
