@@ -1,6 +1,14 @@
 ![](https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=4000&pause=1000&color=FF0685&vCenter=true&width=435&lines=Hello+World+!+%E2%9D%A4;I'm+Mohammad+Abdelkhalek;A+Computer+Science+Graduate)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=4000&pause=1000&color=FF0685&vCenter=true&width=435&lines=Hello+World+!+%E2%9D%A4;I'm+Mohammad+Abdelkhalek;A+Computer+Science+Graduate" alt="Typing SVG">
+  </a>
+</div>
+
+
 
 <br>
 <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="20%" hight="20%" align="right">
@@ -37,3 +45,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-abdelkhalek&theme=radical" alt="mohamad-abdelkhalek" /></p>
 
 <img src="https://camo.githubusercontent.com/dc022129f22b68c4f4bdfa842c59381540a93d04c64b0fb396c8c4a6e0f1dd8f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74267468656d653d617572615f6461726b266865696768743d3135302673656374696f6e3d666f6f74657226746578743d26666f6e7453697a653d373026666f6e74416c69676e593d3335">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
