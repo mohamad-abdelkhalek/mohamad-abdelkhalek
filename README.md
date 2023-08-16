@@ -16,15 +16,15 @@
 <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="20%" hight="20%" align="right">
 <br>
 
-⚫ 🚀  I’m currently learning **Web development, Python**
+🟡 🚀  I’m currently learning **Web development, Python**
 
-⚫ 💬  Ask me about: **Data Structures, Algorithms and Web development**
+🟣 💬  Ask me about: **Data Structures, Algorithms and Web development**
 
-⚫ 📫  Reach me: **mohammad.abdelkhalek.dev@gmail.com** *or via* **+ 961 3 062 403**
+🟡 📫  Reach me: **mohammad.abdelkhalek.dev@gmail.com** *or via* **+ 961 3 062 403**
 
-⚫ 🙂  Interested in: **Books 📖, Podcasts 🎧 & Sports 🤾‍♀️**
+🟣 🙂  Interested in: **Books 📖, Podcasts 🎧 & Sports 🤾‍♀️**
 
-⚫ ⚡  **Committing code and chasing dreams, one branch at a time! ✨**
+🟡 ⚡  **Committing code and chasing dreams, one branch at a time! ✨**
 
 <br>
 
