@@ -46,7 +46,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamad-abdelkhalek&show_icons=true&theme=radical&locale=en" alt="mohamad-abdelkhalek" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-abdelkhalek&theme=radical" alt="mohamad-abdelkhalek" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-abdelkhalek&theme=burnt-neon" alt="mohamad-abdelkhalek" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamad-abdelkhalek&label=Profile%20views&color=ff0088&style=plastic" alt="mohamad-abdelkhalek" /> </p>
 
