@@ -18,11 +18,11 @@
 
 🟡 🚀  I’m currently learning **Web development, Python**
 
-🟣 💬  Ask me about: **Data Structures, Algorithms and Web development**
+🟡 💬  Ask me about: **Data Structures, Algorithms and Web development**
 
 🟡 📫  Reach me: **mohammad.abdelkhalek.dev@gmail.com** *or via* **+ 961 3 062 403**
 
-🟣 🙂  Interested in: **Books 📖, Podcasts 🎧 & Sports 🤾‍♀️**
+🟡 🙂  Interested in: **Books 📖, Podcasts 🎧 & Sports 🤾‍♀️**
 
 🟡 ⚡  **Committing code and chasing dreams, one branch at a time! ✨**
 
