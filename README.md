@@ -33,7 +33,7 @@
 
 | Connect with me: | LinkedIn | Facebook | Instagram | HackerRank |
 | :--------------: | :------: | :------: | :-------: | :--------: |
-| <a href="https://www.linkedin.com/in/mohammad-abdelkhalek-b64405233/"><img src="https://camo.githubusercontent.com/7b808d41a9da1c1441ab4f23c4da330d727cb50703636b1d28086a9fdbc6c620/68747470733a2f2f766964656f2d7075626c69632e63616e76612e636f6d2f564144716b37546c4441452f762f626665323165396365392e676966" height="70" width="70"></a> | <a href="https://www.linkedin.com/in/mohammad-abdelkhalek-b64405233/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"></a> | <a href="https://fb.com/mohamad-j-abdelkhalek"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="45"></a> | <a href="https://instagram.com/mhmd_abdelkhalek"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="45"></a> | <a href="https://www.hackerrank.com/mohammad_ak_cs1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="45"></a> |
+| <a href="https://www.linkedin.com/in/mohammad-abdelkhalek-b64405233/"><img src="https://media.tenor.com/Ud8Px21wDcYAAAAi/thisisfinland-finland.gif" height="70" width="70"></a> | <a href="https://www.linkedin.com/in/mohammad-abdelkhalek-b64405233/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"></a> | <a href="https://fb.com/mohamad-j-abdelkhalek"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="45"></a> | <a href="https://instagram.com/mhmd_abdelkhalek"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="45"></a> | <a href="https://www.hackerrank.com/mohammad_ak_cs1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="45"></a> |
 
 
 
@@ -52,5 +52,3 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg">
-
-<p align="center"><img src="https://github.com/atick-faisal/atick-faisal/blob/main/footer.svg"></p>
