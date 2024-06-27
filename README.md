@@ -28,7 +28,7 @@
 
 <br>
 
-<img src="https://camo.githubusercontent.com/87c66654f1dfd1c35464f7ab8a6b7e99434f2556b83c307d647c54068d0bede1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30322f32662f62352f30323266623565663165373136643363666539613038306666646166386464612e706e67" align="right" width="20%" hight="20%">
+<img src="https://github.com/images/modules/search/dark.png" align="right" width="20%" hight="20%">
 <br>
 
 | Connect with me: | LinkedIn | Facebook | Instagram | HackerRank |
