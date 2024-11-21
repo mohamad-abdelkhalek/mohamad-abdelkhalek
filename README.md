@@ -16,7 +16,7 @@
 <img src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" width="20%" hight="20%" align="right">
 <br>
 
-🟡 🚀  I’m currently learning **Full Stack web development**
+🟡 🚀  I’m currently learning **Full Stack Development**
 
 🟡 💬  Ask me about: **Data Structures, Algorithms and Web development**
 
