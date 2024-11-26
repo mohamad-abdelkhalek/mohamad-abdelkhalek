@@ -45,6 +45,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-abdelkhalek&theme=outrun" alt="mohamad-abdelkhalek" /></p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamad-abdelkhalek&show_icons=true&theme=outrun" alt="mohamad-abdelkhalek" /></p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamad-abdelkhalek&label=Profile%20views&color=ff0088&style=plastic" alt="mohamad-abdelkhalek" /> </p>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
