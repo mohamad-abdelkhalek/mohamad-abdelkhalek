@@ -16,15 +16,15 @@
 <img src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" width="20%" hight="20%" align="right">
 <br>
 
-🟡 🚀  I’m currently learning **Full Stack App Development**
+🚀  I’m currently learning **Full Stack App Development**
 
-🟡 💬  Ask me about: **Data Structures, Algorithms and Web development**
+💬  Ask me about: **Data Structures, Algorithms and Web development**
 
-🟡 📫  Reach me: **mohammad.abdelkhalek.dev@gmail.com** *or via* **+961 3 062 403**
+📫  Reach me: **mohammad.abdelkhalek.dev@gmail.com** *or via* **+961 3 062 403**
 
-🟡 🙂  Interested in: **Books 📖, Podcasts 🎧 & Sports 🤾‍♀️**
+🙂  Interested in: **Books 📖, Podcasts 🎧 & Sports 🤾‍♀️**
 
-🟡 ⚡  **Committing code and chasing dreams, one branch at a time! ✨**
+⚡  **Committing code and chasing dreams, one branch at a time! ✨**
 
 <br>
 
