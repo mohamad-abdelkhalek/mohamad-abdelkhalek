@@ -31,9 +31,10 @@
 <br>
 
 
-| Connect with me: | LinkedIn |
-| :--------------: | :------: |
-| <a href="https://www.linkedin.com/in/mohammad-abdelkhalek-b64405233/"><img src="https://media.tenor.com/Ud8Px21wDcYAAAAi/thisisfinland-finland.gif" height="70" width="70"></a> | <a href="https://www.linkedin.com/in/mohammad-abdelkhalek-b64405233/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"></a>
+| Connect with me: | LinkedIn | Facebook | Instagram | HackerRank |
+| :--------------: | :------: | :------: | :-------: | :--------: |
+| <a href="https://www.linkedin.com/in/mohammad-abdelkhalek-b64405233/"><img src="https://media.tenor.com/Ud8Px21wDcYAAAAi/thisisfinland-finland.gif" height="70" width="70"></a> | <a href="https://www.linkedin.com/in/mohammad-abdelkhalek-b64405233/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"></a> | <a href="https://fb.com/mohamad-j-abdelkhalek"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="45"></a> | <a href="https://instagram.com/mhmd_abdelkhalek"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="45"></a> | <a href="https://www.hackerrank.com/mohammad_ak_cs1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="45"></a> |
+
 
 
 <h3 align="center">Languages:</h3>
