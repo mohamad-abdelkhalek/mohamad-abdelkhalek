@@ -1,4 +1,7 @@
-
+<div align="center"> 
+  <img src="https://github.com/mohamad-abdelkhalek/mohamad-abdelkhalek/blob/output/github-snake-dark.svg" alt="snake gif" />
+</div>
+  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
