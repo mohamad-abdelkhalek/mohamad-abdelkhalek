@@ -1,41 +1,97 @@
-name: Generate Snake
+name: GitHub Snake Game
+
+
 
 on:
+
+  # Schedule the workflow to run daily at midnight UTC
+
   schedule:
-    # Every 6 hours
-    - cron: "0 */6 * * *"
-  workflow_dispatch:  # Allow manual triggering of the workflow from the GitHub Actions tab.
+
+    - cron: "0 0 * * *"
+
+
+
+  # Allow manual triggering of the workflow
+
+  workflow_dispatch:
+
+
+
+  # Trigger the workflow on pushes to the main branch
+
+  push:
+
+    branches:
+
+      - main
+
+
 
 jobs:
-  build:
-    runs-on: ubuntu-latest  # Use the latest Ubuntu runner to execute the job.
+
+  generate:
+
+    runs-on: ubuntu-latest
+
+    timeout-minutes: 10
+
+
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2  # Checks out the repository so we can work with its content.
 
-    - name: Generate the snake gif and svg
-      uses: Platane/snk@master  # Uses the Platane/snk action to generate the snake.
-      id: snake-gif
-      with:
-        github_user_name: mohamad-abdelkhalek  # Replace with your GitHub username.
-        gif_out_path: dist/github-contribution-grid-snake.gif  # Path to save the generated GIF.
-        svg_out_path: dist/github-contribution-grid-snake.svg  # Path to save the generated SVG.
+      # Step 1: Checkout the repository
 
-    - name: Show git status
-      run: git status  # Displays the git status to assist with debugging, if necessary.
+      - name: Checkout Repository
 
-    - name: Push changes
-      uses: ad-m/github-push-action@master  # Pushes the changes to the repository.
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}  # Uses GitHub token for authentication.
-        branch: master  # Pushes to the master branch.
-        force: true  # Forces the push to avoid conflicts.
+        uses: actions/checkout@v3
 
-    - name: Deploy to GitHub Pages
-      uses: crazy-max/ghaction-github-pages@v2.1.3  # Deploys the generated content to GitHub Pages.
-      with:
-        target_branch: output  # The branch that contains the generated files (GIF, SVG).
-        build_dir: dist  # The directory containing the generated files.
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Uses GitHub token for authentication.
+
+
+      # Step 2: Generate the snake animations
+
+      - name: Generate GitHub Contributions Snake Animations
+
+        uses: Platane/snk@v3
+
+        with:
+
+          # GitHub username to generate the animation for
+
+          github_user_name: ${{ github.repository_owner }}
+
+
+
+          # Define the output files and their configurations
+
+          outputs: |
+
+            dist/github-snake.svg
+
+            dist/github-snake-dark.svg?palette=github-dark
+
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+        env:
+
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+      # Step 3: Deploy the generated files to the 'output' branch
+
+      - name: Deploy to Output Branch
+
+        uses: peaceiris/actions-gh-pages@v3
+
+        with:
+
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+          publish_dir: ./dist
+
+          publish_branch: output
+
+          # Optionally, you can set a custom commit message
+
+          commit_message: "Update snake animation [skip ci]"
