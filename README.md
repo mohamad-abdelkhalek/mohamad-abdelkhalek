@@ -18,7 +18,7 @@
 <img src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" width="20%" hight="20%" align="right">
 <br>
 
-🚀  I’m currently learning **MERN, Laravel**
+🚀  I’m currently using **MERN, Laravel**
 
 💬  Ask me about: **Data Structures, Algorithms and Web development**
 
