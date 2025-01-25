@@ -33,11 +33,52 @@
 <br>
 
 
-| Connect with me: | LinkedIn | Facebook | Instagram | HackerRank |
-| :--------------: | :------: | :------: | :-------: | :--------: |
-| <a href="https://www.linkedin.com/in/mohammad-abdelkhalek-b64405233/"><img src="https://media.tenor.com/Ud8Px21wDcYAAAAi/thisisfinland-finland.gif" height="70" width="70"></a> | <a href="https://www.linkedin.com/in/mohammad-abdelkhalek-b64405233/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"></a> | <a href="https://fb.com/mohamad-j-abdelkhalek"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="45"></a> | <a href="https://instagram.com/mhmd_abdelkhalek"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="45"></a> | <a href="https://www.hackerrank.com/mohammad_ak_cs1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="45"></a> |
 
+<table align="center">
+<tr>
+<th>Connect with me</th>
+<th>LinkedIn</th>
+<th>Facebook</th>
+<th>Instagram</th>
+<th>Discord</th>
+</tr>
+<tr align="center">
+<td>
+<a href="https://www.linkedin.com/in/mohammad-abdelkhalek-b64405233/">
+<img src="https://media.tenor.com/Ud8Px21wDcYAAAAi/thisisfinland-finland.gif" height="50" width="50">
+</a>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/mohammad-abdelkhalek-b64405233/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40">
+</a>
+</td>
+<td>
+<a href="https://fb.com/mohamad-j-abdelkhalek">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40">
+</a>
+</td>
+<td>
+<a href="https://instagram.com/mhmd_abdelkhalek">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40">
+</a>
+</td>
+<td>
+<a href="https://discord.gg/K5qv8YKr">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="45">
+</a>
+</td>
+</tr>
+</table>
+<br>
+<h2 align="center">
+  What I Code With 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+</h2>
 
+<p align="center">
+  <code><em>Crafting digital solutions with passion and precision ✨</em></code>
+</p>
 
 <h3 align="center">Languages:</h3>
 <div align="center">
