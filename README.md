@@ -151,6 +151,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamad-abdelkhalek&show_icons=true&theme=outrun" alt="mohamad-abdelkhalek" /></p>
 
+[![Mohammad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamad-abdelkhalek&bg_color=141439&color=ffcc00&line=ffcc00&point=ff1aff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamad-abdelkhalek&label=Profile%20views&color=141439&style=plastic" alt="mohamad-abdelkhalek" stroke-opacity="1"/> </p>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
