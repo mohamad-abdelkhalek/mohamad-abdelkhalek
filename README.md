@@ -29,7 +29,7 @@
 ⚡  **Committing code and chasing dreams, one branch at a time! ✨**
 
 <br>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamad-abdelkhalek&label=Profile%20views&color=141439&style=plastic" alt="mohamad-abdelkhalek" stroke-opacity="1"/> </p>
 <img src="https://github.com/images/modules/search/dark.png" align="right" width="20%" hight="20%">
 <br>
 
@@ -157,7 +157,7 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamad-abdelkhalek&label=Profile%20views&color=141439&style=plastic" alt="mohamad-abdelkhalek" stroke-opacity="1"/> </p>
+
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
 
