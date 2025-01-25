@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif" width="20%" hight="20%" align="right">
 <br>
 
->🚀  I’m currently using **MERN, Laravel**
+>🚀  I’m currently using **MERN, Laravel** <img src="https://media.giphy.com/media/eNAsjO55d76Ok/giphy.gif" width="25" height="25">
 >
 >💬  Ask me about: **Data Structures, Algorithms and Web development**
 >
