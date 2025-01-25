@@ -18,15 +18,15 @@
 <img src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" width="20%" hight="20%" align="right">
 <br>
 
-🚀  I’m currently using **MERN, Laravel**
+>🚀  I’m currently using **MERN, Laravel**
 
-💬  Ask me about: **Data Structures, Algorithms and Web development**
+>💬  Ask me about: **Data Structures, Algorithms and Web development**
 
-📫  Reach me: **mohammad.abdelkhalek.dev@gmail.com**
+>📫  Reach me: **mohammad.abdelkhalek.dev@gmail.com**
 
-🙂  Interested in: **Books 📖, Podcasts 🎧 & Sports 🤾‍♀️**
+>🙂  Interested in: **Books 📖, Podcasts 🎧 & Sports 🤾‍♀️**
 
-⚡  **Committing code and chasing dreams, one branch at a time! ✨**
+>⚡  **Committing code and chasing dreams, one branch at a time! ✨**
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamad-abdelkhalek&label=Profile%20views&color=141439&style=plastic" alt="mohamad-abdelkhalek" stroke-opacity="1"/> </p>
