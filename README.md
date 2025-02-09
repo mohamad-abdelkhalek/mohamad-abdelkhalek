@@ -64,7 +64,7 @@
 </a>
 </td>
 <td>
-<a href="https://discord.gg/K5qv8YKr">
+<a href="https://discord.gg/WVzvcN5J">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="45">
 </a>
 </td>
